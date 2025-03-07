@@ -26,7 +26,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Kde Plasma Config](https://github.com/samwhelp/kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
+| [Kde Plasma Config](https://github.com/samwhelp/kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
 
 
 
