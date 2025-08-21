@@ -17,6 +17,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [Resource](#resource)
 * [相關筆記](#相關筆記)
 
 
@@ -27,6 +28,19 @@
 | 微調腳本 |
 | ------- |
 | [Kde Plasma Config](https://github.com/samwhelp/kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+
+
+
+
+## Resource
+
+| Kde Resource |
+| ------------ |
+| [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
+| [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [kde-plasma-style-switch](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [kde-plasma-keybind-switch](https://github.com/samwhelp/kde-plasma-keybind-switch) |
 
 
 
